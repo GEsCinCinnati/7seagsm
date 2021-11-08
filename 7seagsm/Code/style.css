@@ -1,0 +1,19 @@
+body::before {
+  display: block;
+  content: '';
+  height: 60px;
+}
+
+
+
+#Showcase {
+    background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ),url(/7seagsm/img/7s_logo.gif);
+            -webkit-background-size: cover;
+              -moz-background-size:  cover;
+              -o-background-size: cover;
+              background-size: cover;
+              background-position: center;
+
+}
+#questions {
+  background: rgba(0, 0, 0, 0.5); }
